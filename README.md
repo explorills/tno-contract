@@ -26,8 +26,8 @@ BSD-3-Clause License
 
 ## Contact
 
-- main: explorills.com
-- mint: mint.explorills.com
+- main: [explorills.com](https://explorills.com)
+- mint: [mint.explorills.com](https://mint.explorills.com)
 - contact: info@explorills.com
 - security contact: info@explorills.ai
 
