@@ -37,4 +37,4 @@ BSD-3-Clause License
 
 Detailed application guidelines will be shared shortly as development progresses
 
-- explorills Community 2024
+- explorills community 2024
