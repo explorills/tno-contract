@@ -5,7 +5,7 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 ## General Functionality
 
 1. Mints four types of NFTs (TNO Cards): Bronze, Silver, Gold, and Diamond
-2. Each TNO card type has a different value in terms of an associated ERC20 token $EXPL (explorills native currency)
+2. Each type of TNO card holds a different value relative to explorills' native currency $EXPL
 3. TNO cards will enable users to claim $EXPL once it's deployed
 4. Cross-chain NFT minting, transfers, and balance management are supported
 
