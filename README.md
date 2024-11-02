@@ -33,8 +33,4 @@ BSD-3-Clause License
 
 ---
 
-## Setup
-
-Detailed application guidelines will be shared shortly as development progresses
-
 - explorills community 2024
