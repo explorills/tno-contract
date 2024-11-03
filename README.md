@@ -24,6 +24,13 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 
 BSD-3-Clause License
 
+## Find at
+
+- [sourcify.eth](https://sourcify.dev/#/lookup/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059)
+- [Etherscan.io](https://etherscan.io/address/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059#code)
+- [Flarescan.com](https://flarescan.com/address/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059/contract/14/code?chainid=14)
+- [Flare-explorer](https://flare-explorer.flare.network/address/0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059?tab=contract#address-tabs)
+
 ## Contact
 
 - main: [explorills.com](https://explorills.com)
