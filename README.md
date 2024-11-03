@@ -23,15 +23,15 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 ## License
 
 BSD-3-Clause License
----
-### Contact
+
+## Contact
 
 - main: [explorills.com](https://explorills.com)
 - mint: [mint.explorills.com](https://mint.explorills.com)
 - contact: info@explorills.com
 - security contact: info@explorills.ai
 
-### Contract
+## Contract
 - 0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059
   
 ### Find at
