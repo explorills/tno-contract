@@ -15,6 +15,13 @@ ERC1155 cross-chain contract with ERC20 minting functionality
 - `burnTnftForMintTerc20`: Burn TNO cards to get ERC20 tokens $EXPL
 - `receiveTnftFromUserToOtherChainsSupply`: Transfer TNO cards to another chain
 
+## Technical Specifications
+* Contract Name: explorills_TNO
+* Compiler Version: v0.8.24
+* EVM Version: London
+* Optimization: Enabled (200 runs)
+* Networks: [Ethereum](https://ethereum.org/); [Flare](https://flare.network/)
+
 ## Notes
 
 - This contract is designed to work with a separate ERC20 token contract
