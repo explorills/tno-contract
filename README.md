@@ -31,7 +31,7 @@ BSD-3-Clause License
 - contact: info@explorills.com
 - security contact: info@explorills.ai
 
-## Contract
+## Contract Address
 - 0xa255Ea1Ce9D42Ff1AE8D573D1765C49335631059
   
 ### Find at
